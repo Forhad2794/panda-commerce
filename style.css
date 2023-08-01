@@ -2,45 +2,53 @@
     margin-bottom: 100px;
 }
 
-
 .fancy-button {
     padding: 9px 25px;
     border-radius: 8px;
     border: none;
     color: white;
     background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
-  
-}
-.carousel-item {
-    padding: 20px 40px;
-    
+
 }
 
-.carousel{
+.carousel-item {
+    padding: 20px 40px;
+
+}
+
+.carousel {
     background-color: #fceae8;
 }
 
-.cat1, .cat2, .cat3 {
-color: white;
-border-radius: 8px;
-padding: 10px 30px;
+.cat1,
+.cat2,
+.cat3 {
+    color: white;
+    border-radius: 8px;
+    padding: 10px 30px;
 }
+
 .categories img {
-width: 100px;
+    width: 100px;
 }
+
 #subscribe {
-    
+
     background-color: #fceae8;
     height: 300px;
 }
+
 .card {
     box-shadow: 3px 5px 15px gray;
-    border: none ;
+    border: none;
     border-radius: 10px;
 }
+
 .card:hover {
     box-shadow: 5px 10px 30px gray;
+    transition: .3s;
 }
+
 .card-footer {
     background-color: white;
     border: none;
